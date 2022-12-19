@@ -1,4 +1,4 @@
-let userID =69;
+let userID = 69;
 
 let userName: string = "John Doe";
 
@@ -14,4 +14,3 @@ console.log(userName.toUpperCase()); // JOHN DOE
 console.log(userID.toFixed(2));
 
 export {};
-
