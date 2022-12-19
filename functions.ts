@@ -52,3 +52,6 @@ consoleError("This is an error");
 // }
 
 // handleError("This is an error");
+
+// Q: What is the difference between void and never?
+// A: void is used to indicate that a function does not return anything.  never is used to indicate that a function does not return anything and also does not terminate.
