@@ -1,7 +1,5 @@
 // type aliases are used to create a new name for a type
 
-// Example of type aliases:
-
 type MyString = string;
 
 function MyString(str: MyString) {
