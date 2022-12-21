@@ -35,7 +35,5 @@ function createCard(card: CardDetails) {
 
 console.log(createCard({cardNumber: 123456789, cardHolder: "Yash", CardCVV: 123})); // { cardNumber: 123456789, cardHolder: 'Yash', CardCVV: 123 }
 
-
-
 export {};
 

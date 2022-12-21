@@ -50,7 +50,6 @@ consoleError("This is an error");
 // function handleError(errmsg: string): never {
 //     throw new Error(errmsg);
 // }
-
 // handleError("This is an error");
 
 // Q: What is the difference between void and never?
