@@ -17,6 +17,7 @@ const enum SeatChoice2 {
     Aisle= 69,
     Middle= 2
 }
+
 // Question: What is the difference between enum and const enum?
 
 // Answer: const enum is a compile-time constant enum. It is removed during compilation and replaced by its value. It is used to reduce the size of the output file.
